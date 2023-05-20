@@ -1,0 +1,28 @@
+*{
+    font-family: 'Courier New', Courier, monospace;
+}
+.navbar-container {
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.navlinks-container {
+    display: flex;
+    gap: 42px;
+}
+.logo{
+    font-size: 32px;
+    color: rgb(246, 100, 238);
+    text-transform: capitalize;
+}
+.body-container{
+    Width: 90%;
+    margin:auto;
+}
+.post-btn{
+    background-color: aqua;
+    padding: 8px 32px;
+    color:blue;
+    border: 1px;
+    border-radius: 100px;
+}
